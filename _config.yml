@@ -1,3 +1,5 @@
 title: SkyAsk
-description: 九剑的技术博客 - 基因组学、技术分享与行业观察
+description: 技术博客 - 分享思考与见解
 theme: jekyll-theme-minimal
+permalink: /:year/:month/:day/:title.html
+markdown: kramdown
