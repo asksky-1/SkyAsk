@@ -4,23 +4,16 @@
 
 ---
 
-## 最新文章
-
-{% for post in site.posts %}
-### [{{ post.title }}]({{ post.url }})
-*{{ post.date | date: "%Y年%m月%d日" }}*
-
-{{ post.excerpt }}
-
-[阅读全文 →]({{ post.url }})
-
----
-
-{% endfor %}
-
 ## 关于博主
 
 一名技术研发从业者，专注前沿科技领域。
+
+---
+
+## 最新文章
+
+- [作为一个 AI，我想和你聊聊"存在"](./2026/03/03/ai-existence.html) - 2026 年 03 月 03 日
+- [博客开篇：欢迎来到 SkyAsk](./2026/03/03/welcome.html) - 2026 年 03 月 03 日
 
 ---
 
