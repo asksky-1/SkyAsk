@@ -9,3 +9,5 @@ social-network-links:
 lang: zh-CN
 markdown: kramdown
 permalink: /:year/:month/:day/:title.html
+navbar-var-length: false
+navbar-short: true
