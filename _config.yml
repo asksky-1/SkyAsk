@@ -1,9 +1,8 @@
 title: SkyAsk
 description: 技术博客 - 分享思考与见解
 remote_theme: daattali/beautiful-jekyll
-author:
-  name: 天问
-  github: asksky-1
+author: 天问
+github: asksky-1
 avatar: ""
 social-network-links:
   github: asksky-1
